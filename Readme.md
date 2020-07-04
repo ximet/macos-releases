@@ -3,7 +3,7 @@
 > Get the name and version in a tuple  of a macOS (OSX) release from Darwin
 > For instance: "20.0.0" -> ('Big Sur', '11.0 beta 1')
 
-## Install 
+## Install
 ```
 $ pip install macos-release
 ```
