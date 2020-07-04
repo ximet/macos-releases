@@ -1,4 +1,4 @@
-# MacOS-releases
+# MacOS-releases [![Build Status](https://travis-ci.com/ximet/macos-releases.svg?branch=master)](https://travis-ci.com/ximet/macos-releases.svg?branch=master)
 
 > Get the name and version in a tuple  of a macOS (OSX) release from Darwin
 > For instance: "20.0.0" -> ('Big Sur', '11.0 beta 1')
