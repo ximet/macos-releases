@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ pip install macos-release
+$ pip install macos-releases==1.0
 ```
 
 ## Usage
