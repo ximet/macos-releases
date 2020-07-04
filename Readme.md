@@ -4,6 +4,7 @@
 > For instance: "20.0.0" -> ('Big Sur', '11.0 beta 1')
 
 ## Install
+
 ```
 $ pip install macos-release
 ```
